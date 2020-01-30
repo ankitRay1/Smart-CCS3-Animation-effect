@@ -1,0 +1,123 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body {
+  font-family: 'Raleway', sans-serif;
+  line-height: normal;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+  display: block;
+}
+
+a:focus {
+  outline: thin dotted;
+}
+
+a:active, a:hover {
+  outline: 0;
+}
+
+img {
+  border: 0;
+}
+
+section {
+  background: #f1f1f1;
+  margin: 0 auto;
+  padding: 5em 2em;
+  text-align: center;
+}
+
+section:nth-child(even) {
+  background: #fafafa;
+}
+
+section h2 {
+  margin: 0;
+  padding: 0 0 2em;
+}
+
+footer {
+  background: #009688;
+  margin: 0 auto;
+  padding: 5em 2em;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+#header {
+  background: #009688;
+  font-family: 'Raleway', sans-serif;
+  padding: 5em 0;
+  text-align: center;
+}
+
+#header i.fa {
+  color: #2c3e50;
+}
+
+#header h1 {
+  color: #2c3e50;
+  font-size: 2.5em;
+  font-weight: 600;
+  margin: 0;
+  padding: 0.3em 0;
+}
+
+#header h3 small {
+  color: #2c3e50;
+  font-weight: normal;
+  background: #fff none repeat scroll 0 0;
+  font-size: 13px;
+  padding: 0 12px;
+}
+
+#header h3 {
+  border-bottom: 1px solid #2c3e50;
+  color: #fff;
+  margin: 0 auto 12px;
+  padding: 0 0 5px;
+  width: 35%;
+}
+
+#header p {
+  color: #fff;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+/* ******************************************************
+	Basic Styling
+*********************************************************/
+.myEffects ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.myEffects li {
+  list-style: none;
+  display: inline-block;
+  margin: 15px 25px;
+}
+
+.myEffects li i {
+  margin: 30px 100px;
+  cursor: pointer;
+}
+
+.myEffects a:hover,
+.myEffects a:focus {
+  outline: none;
+}
