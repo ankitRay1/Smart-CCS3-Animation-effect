@@ -13,4 +13,5 @@ No java script needed.
 Can configure easily with scss.
 SCSS file included.
 
+![hjdjeh](https://raw.githubusercontent.com/ankitRay1/Smart-CCS3-Animation-effect/master/ankitmaster.netlify.com.png)
 
